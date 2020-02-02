@@ -5,11 +5,12 @@ My personal i3 config
 Put this files in ~/.config
 
 
-## How to install rofi on Fedora Distro
+## Installing dependecies on Fedora Distro
 
+### Rofi
 ```sudo dnf copr enable yaroslav/i3desktop ```    
 ```sudo dnf install compton rofi ```  
 
-## Installing polybar
+### Polybar
 
 ```sudo dnf install polybar```
