@@ -7,9 +7,9 @@ Put this files in ~/.config
 
 ## How to install rofi on Fedora Distro
 
-```sudo dnf copr enable yaroslav/i3desktop  
-```sudo dnf install compton rofi ```
+```sudo dnf copr enable yaroslav/i3desktop ```    
+```sudo dnf install compton rofi ```  
 
 ## Installing polybar
 
-``` sudo dnf install polybar ```
+```sudo dnf install polybar```
