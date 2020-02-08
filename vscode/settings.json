@@ -1,0 +1,26 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Horizon Bold",
+    "editor.renderWhitespace": "all",
+    "editor.minimap.enabled": false,
+    "editor.renderIndentGuides": false,
+    "editor.renderLineHighlight": "none",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.folding": false,
+    "editor.occurrencesHighlight": false,
+    "editor.glyphMargin": false,
+    "explorer.openEditors.visible": 0,
+    "workbench.activityBar.visible": false,
+    "workbench.editor.showIcons": false,
+    "workbench.editor.tabCloseButton": "off",
+    "workbench.statusBar.visible": false,
+    "indenticator.color.dark": "rgba(255,255,255,.1)",
+    "workbench.colorCustomizations": {
+        "tab.activeBorder": "#0000"
+    },
+    "window.titleBarStyle": "custom"
+}
