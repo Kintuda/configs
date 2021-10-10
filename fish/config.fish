@@ -1,4 +1,12 @@
+status is-interactive
+    # Commands to run in interactive sessions can go here
+end
+
 set -gx PATH $PATH:/home/$USER/Development/flutter/bin
+
+set -x GOPATH ~/go
+
+set -x PATH $PATH /usr/local/go/bin $GOPATH/bin
 
 set --export ANDROID $HOME/Android;
 set --export ANDROID_HOME $ANDROID/Sdk;
