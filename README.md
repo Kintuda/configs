@@ -1,7 +1,7 @@
 # Development configuration
-My personal development configuration 
+My personal dev configuration, tested on Fedora (Gnome and i3), arch with i3 and Macos. 
 
-Put the files in the appropriate folders, the folders 
+To configure the dotfile, clone the repo and start copying the files on to the appropriate folders inside .config file. 
 fish, i3, omf, polybar, rofi should be placed inside ``` ~/.config ```
 
 vscode/settings.json should be placed inside vscode installation folder, or copied the content into settings.json inside editor.
