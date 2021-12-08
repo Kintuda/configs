@@ -9,6 +9,11 @@ vscode/settings.json should be placed inside vscode installation folder, or copi
 
 ## Installing dependencies on Fedora Distro
 
+### Terminal (Kitty)
+```
+curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin
+
+
 ### Fish
 ```
 sudo dnf install fish
